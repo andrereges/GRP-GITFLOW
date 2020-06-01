@@ -1,0 +1,7 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: postgres
+    database_port: 5432
+    database_name: grp3
+    database_user: postgres
+    database_password: postgres
